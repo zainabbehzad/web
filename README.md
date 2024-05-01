@@ -1,2 +1,2 @@
-# DEMO
+# Demo
 Some description
